@@ -1,0 +1,1 @@
+Changes the requirement for general strikes from "Have no states having radicals" to "Have no more than 90% of states having radicals" just because I really got annoyed by that Journal Entry.

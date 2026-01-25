@@ -1,0 +1,12 @@
+{
+  "name" : "Less Annoying General Strike",
+	"id" : "",
+  "version" : "1.0",
+  "supported_game_version" : "1.12.*",
+  "short_description" : "",
+  "tags" : [ "Balance", "Journal Entries", "1.12" ],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}

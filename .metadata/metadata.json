@@ -1,7 +1,7 @@
 {
   "name" : "Less Annoying General Strike",
-	"id" : "",
-  "version" : "1.0",
+	"id" : "3653738534",
+  "version" : "1.0.0",
   "supported_game_version" : "1.12.*",
   "short_description" : "",
   "tags" : [ "Balance", "Journal Entries", "1.12" ],
